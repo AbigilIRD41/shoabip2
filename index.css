@@ -1,0 +1,16 @@
+.insert{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.insert aqui{
+
+    width: 250px;
+    height: 250px;
+}
+body{ background-color: blueviolet;
+    color: white;
+    }
+
